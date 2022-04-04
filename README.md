@@ -1,3 +1,3 @@
-# Toptal_tech_itw
+# Toptal Technical Interview
 
 Repo for Toptal techcnical interview
